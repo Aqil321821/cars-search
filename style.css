@@ -1,0 +1,35 @@
+.navbar{
+    background-color: turquoise !important;
+}
+
+
+.black{
+    width: 18px;
+    height: 18px;
+    border-radius: 9px ;
+    background-color: #333;
+}
+.red{
+    width: 18px;
+    height: 18px;
+    border-radius: 9px ;
+    background-color: red;
+}
+.white{
+    width: 18px;
+    height: 18px;
+    border-radius: 9px ;
+    background-color:  #fff;
+    border: 1px solid #333;
+
+}
+
+
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.form-select{
+    width: 250px;
+}
